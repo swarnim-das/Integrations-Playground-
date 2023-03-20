@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="choose_date" table="x_317911_integra_0_random_facts">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Choose date</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>choose_date</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">glide_date</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>255</max_length>
+        <name>x_317911_integra_0_random_facts</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-20 03:52:03</sys_created_on>
+        <sys_id>3d61da334729e1105dffc789826d4304</sys_id>
+        <sys_name>Choose date</sys_name>
+        <sys_package display_value="Integrations Playground" source="x_317911_integra_0">571b42bb47e5e1105dffc789826d436c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Integrations Playground">571b42bb47e5e1105dffc789826d436c</sys_scope>
+        <sys_update_name>sys_dictionary_x_317911_integra_0_random_facts_choose_date</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-20 03:52:04</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Integrations Playground">571b42bb47e5e1105dffc789826d436c</application>
+        <file_path/>
+        <instance_id>ca629802db0b2c10431011f8489619a2</instance_id>
+        <instance_name>dev108126</instance_name>
+        <name>sys_dictionary_x_317911_integra_0_random_facts_choose_date</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="choose_date" table="x_317911_integra_0_random_facts"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Choose date</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>choose_date</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="">glide_date</internal_type><mandatory>false</mandatory><max_length>255</max_length><name>x_317911_integra_0_random_facts</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-20 03:52:03</sys_created_on><sys_id>3d61da334729e1105dffc789826d4304</sys_id><sys_name>Choose date</sys_name><sys_package display_value="Integrations Playground" source="x_317911_integra_0">571b42bb47e5e1105dffc789826d436c</sys_package><sys_policy/><sys_scope display_value="Integrations Playground">571b42bb47e5e1105dffc789826d436c</sys_scope><sys_update_name>sys_dictionary_x_317911_integra_0_random_facts_choose_date</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-20 03:52:04</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-1911730732</payload_hash>
+        <record_name>Random Facts.Choose date</record_name>
+        <reverted_from/>
+        <source>571b42bb47e5e1105dffc789826d436e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-20 03:52:04</sys_created_on>
+        <sys_id>0e61da334729e1105dffc789826d43cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186fd2547aa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-20 03:52:04</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>0661da33e629e110604f32a3a2ea4fcd</update_guid>
+        <update_guid_history>0661da33e629e110604f32a3a2ea4fcd:-1911730732,c661da33f829e1108c04b63ae296e089:1879741713</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-20 12:09:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>2dce49aee0fc45a6888d95fa2be598c9</sys_id>
+        <sys_metadata>3d61da334729e1105dffc789826d4304</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Choose date</sys_name>
+        <sys_package display_value="Integrations Playground" source="x_317911_integra_0">571b42bb47e5e1105dffc789826d436c</sys_package>
+        <sys_parent display_value="Random Facts">34de8e7f47e5e1105dffc789826d4369</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Integrations Playground">571b42bb47e5e1105dffc789826d436c</sys_scope>
+        <sys_scope_delete display_value="">04a1dd371a5d4d5e98be07ffb817acf9</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_317911_integra_0_random_facts_choose_date</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_317911_integra_0_random_facts_choose_date">0e61da334729e1105dffc789826d43cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-20 12:09:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

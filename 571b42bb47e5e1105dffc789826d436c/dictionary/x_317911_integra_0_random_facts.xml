@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="34de8e7f47e5e1105dffc789826d4369" label="Random Facts" max_length="40" name="x_317911_integra_0_random_facts" type="collection">
+        <element label="Fact of the day" max_length="500" name="fact_of_the_day" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Random Date" max_length="40" name="random_date" type="glide_date"/>
+    </element>
+</database>
