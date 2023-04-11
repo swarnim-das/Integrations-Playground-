@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_api_request_local">
+    <sys_api_request_local action="INSERT_OR_UPDATE">
+        <api_collection/>
+        <api_operation display_value="POST /">2166df9d478a61105dffc789826d4399</api_operation>
+        <description/>
+        <name>Generated Request for 6055db5d478a61105dffc789826d439c</name>
+        <required>false</required>
+        <sys_class_name>sys_api_request_local</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 11:00:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a166df9d8e8a6110a2a8aaad01718294</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2166df9d478a61105dffc789826d4399</sys_name>
+        <sys_package display_value="Integrations Playground" source="x_317911_integra_0">571b42bb47e5e1105dffc789826d436c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Integrations Playground">571b42bb47e5e1105dffc789826d436c</sys_scope>
+        <sys_update_name>sys_api_request_local_a166df9d8e8a6110a2a8aaad01718294</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 11:00:05</sys_updated_on>
+    </sys_api_request_local>
+</record_update>

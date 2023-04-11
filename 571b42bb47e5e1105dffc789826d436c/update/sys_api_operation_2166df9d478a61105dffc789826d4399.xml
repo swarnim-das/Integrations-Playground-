@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_api_operation">
+    <sys_api_operation action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_collection display_value="Rest trigger for flow id=6055db5d478a61105dffc789826d439c - v1">6566df9d478a61105dffc789826d4394</api_collection>
+        <api_request display_value="Generated Request for 6055db5d478a61105dffc789826d439c">a166df9d8e8a6110a2a8aaad01718294</api_request>
+        <api_security_scheme display_value="">ad66df9d478a61105dffc789826d43a1</api_security_scheme>
+        <deprecated>false</deprecated>
+        <description/>
+        <execute_asynchronously>true</execute_asynchronously>
+        <execution_record>6055db5d478a61105dffc789826d439c</execution_record>
+        <execution_type>sys_hub_flow</execution_type>
+        <http_method>post</http_method>
+        <name>POST /</name>
+        <operation_id/>
+        <origin>flow_designer</origin>
+        <path>/</path>
+        <sys_class_name>sys_api_operation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 11:00:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2166df9d478a61105dffc789826d4399</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>POST /</sys_name>
+        <sys_package display_value="Integrations Playground" source="x_317911_integra_0">571b42bb47e5e1105dffc789826d436c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Integrations Playground">571b42bb47e5e1105dffc789826d436c</sys_scope>
+        <sys_update_name>sys_api_operation_2166df9d478a61105dffc789826d4399</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 11:00:05</sys_updated_on>
+    </sys_api_operation>
+</record_update>
