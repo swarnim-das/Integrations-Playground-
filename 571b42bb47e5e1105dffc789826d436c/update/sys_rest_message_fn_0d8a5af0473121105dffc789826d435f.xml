@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>date</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>Numbers API [ date ]</qualified_name>
+        <rest_endpoint>http://numbersapi.com/${mm}/${dd}/date</rest_endpoint>
+        <rest_message display_value="Numbers API">fed95eb4473121105dffc789826d4399</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-23 07:05:47</sys_created_on>
+        <sys_id>0d8a5af0473121105dffc789826d435f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>date</sys_name>
+        <sys_package display_value="Integrations Playground" source="x_317911_integra_0">571b42bb47e5e1105dffc789826d436c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Integrations Playground">571b42bb47e5e1105dffc789826d436c</sys_scope>
+        <sys_update_name>sys_rest_message_fn_0d8a5af0473121105dffc789826d435f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-23 07:08:56</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>

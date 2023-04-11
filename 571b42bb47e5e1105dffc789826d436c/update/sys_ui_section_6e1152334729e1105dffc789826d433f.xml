@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-03-20 03:50:44</sys_created_on>
-            <sys_id>6a1152334729e1105dffc789826d4344</sys_id>
+            <sys_created_on>2023-03-23 08:20:12</sys_created_on>
+            <sys_id>cb8ba2b8477121105dffc789826d4363</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_317911_integra_0_random_facts" sys_domain="global" view="Default view">6e1152334729e1105dffc789826d433f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-20 03:50:44</sys_updated_on>
+            <sys_updated_on>2023-03-23 08:20:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,27 @@
             <element>random_date</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-03-20 12:09:22</sys_created_on>
-            <sys_id>4333804847f121105dffc789826d4377</sys_id>
+            <sys_created_on>2023-03-23 08:20:12</sys_created_on>
+            <sys_id>838ba2b8477121105dffc789826d4364</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_317911_integra_0_random_facts" sys_domain="global" view="Default view">6e1152334729e1105dffc789826d433f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-20 12:09:22</sys_updated_on>
+            <sys_updated_on>2023-03-23 08:20:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fact_of_the_day</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-23 08:20:12</sys_created_on>
+            <sys_id>078ba2b8477121105dffc789826d4364</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_317911_integra_0_random_facts" sys_domain="global" view="Default view">6e1152334729e1105dffc789826d433f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-23 08:20:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

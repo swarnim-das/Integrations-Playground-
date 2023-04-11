@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDfde65bdd028a611041d9847802529879</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>571b42bb47e5e1105dffc789826d436c</scope_name>
+        <serialized_content>{"FlowDesigner:FDfde65bdd028a611041d9847802529879":{},"FlowDesigner:FDfde65bdd028a611041d9847802529879.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDfde65bdd028a611041d9847802529879\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":null,\"label\":\"Request Headers\",\"mandatory\":\"false\",\"order\":\"120\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 11:02:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b1e65bdd478a61105dffc789826d437a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDfde65bdd028a611041d9847802529879</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Integrations Playground" source="x_317911_integra_0">571b42bb47e5e1105dffc789826d436c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Integrations Playground">571b42bb47e5e1105dffc789826d436c</sys_scope>
+        <sys_update_name>sys_complex_object_b1e65bdd478a61105dffc789826d437a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 11:02:17</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

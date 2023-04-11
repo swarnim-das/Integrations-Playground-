@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>mm</name>
+        <rest_message_function display_value="date">0d8a5af0473121105dffc789826d435f</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-23 07:08:41</sys_created_on>
+        <sys_id>e72bd238473121105dffc789826d43db</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>mm</sys_name>
+        <sys_package display_value="Integrations Playground" source="x_317911_integra_0">571b42bb47e5e1105dffc789826d436c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Integrations Playground">571b42bb47e5e1105dffc789826d436c</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_e72bd238473121105dffc789826d43db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-23 16:18:48</sys_updated_on>
+        <type>string</type>
+        <value>08</value>
+    </sys_rest_message_fn_parameters>
+</record_update>
